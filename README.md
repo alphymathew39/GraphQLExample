@@ -1,13 +1,4 @@
 # spring-boot-graphQL
-GraphQL is a relatively new concept from Facebook that is billed as an alternative to REST for Web APIs
-
-
-Readme
-GraphQL
-
-//Post req is used for get in graphql because of query in body
-
-#####################################################
 
 POST: localhost:8080/addMovie
 
