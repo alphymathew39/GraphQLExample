@@ -1,0 +1,18 @@
+schema{
+query: Query
+}
+
+type Query{
+
+getAllMovie : [Movie]
+findMovie(director: String) : Movie
+}
+
+type Movie{
+
+id: String
+name: String
+title: String
+director: String
+actors: [String]
+}
